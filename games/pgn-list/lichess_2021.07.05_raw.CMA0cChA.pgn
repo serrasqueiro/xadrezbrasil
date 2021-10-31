@@ -1,0 +1,21 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MRGshGCg"]
+[Date "2021.06.27"]
+[White "hclm"]
+[Black "juan62"]
+[Result "1-0"]
+[UTCDate "2021.06.27"]
+[UTCTime "22:34:32"]
+[WhiteElo "1541"]
+[BlackElo "1552"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Nf3 Bf5 5. d4 e6 6. Bd3 Bxd3 7. Qxd3 Nc6 8. O-O Nf6 9. Bf4 Bd6 10. Bxd6 cxd6 11. Qb5 Qc7 12. Rfe1 O-O 13. Rac1 a6 14. Qg5 h6 15. Qg3 e5 16. dxe5 dxe5 17. Nxe5 Nxe5 18. Qxe5 Qb6 19. Ne4 Ng4 20. Qf4 f5 21. Nd6 g5 22. Qc4+ Kg7 23. Qc3+ Kg6 24. Re6+ Kh5 25. Qh3# 1-0
+
+
