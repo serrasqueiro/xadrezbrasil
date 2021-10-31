@@ -11,6 +11,9 @@ Links importantes do [xadrezbrasil](https://www.youtube.com/c/XadrezBrasil):
   - [aqui](https://www.youtube.com/playlist?list=PLQ8hE68msE1fMAOB31wmhtyDY1F_oQfBa) - _de olho no lance_, partidas com o Rafael jogando online e explicando como se joga
 
 # Referencias
+Aqui postamos algumas refer&ecirc;ncias usadas neste [repo](https://github.com/serrasqueiro/xadrezbrasil/) .
++ [Xadrez Brasil](https://xadrezbrasil.com.br/sobre-a-academia/) - [https://xadrezbrasil.com.br/](https://xadrezbrasil.com.br/)
 
+## github
 Modulo principal (ingles) para xadrez, no github:
 + [github: xadrez](https://github.com/serrasqueiro/xadrez)
