@@ -1,0 +1,29 @@
+[
+  {
+    "!partidas_boas.json": {
+      "Id": 0,
+      "Key": null,
+      "Mark": null,
+      "Title": "Xadrez Brasil",
+      "URL": "https://www.youtube.com/c/XadrezBrasil/videos/"
+    },
+    "lista": [
+      {
+        "Id": 1001,
+        "Key": "jXRDLggkQyc",
+        "Mark": "2022-05-08",
+        "Third": "Partida de Blitz deliciosa",
+        "Title": "Garry Kasparov CHOCA Hikaru Nakamura (date: 08.05.2022)",
+        "URL": "https://www.youtube.com/watch?v=jXRDLggkQyc"
+      },
+      {
+        "Id": 1002,
+        "Key": "CWY_mfPSL_s",
+        "Mark": "2022-04-22",
+        "Third": "Partida n\u00e3o muito bem jogada, mas interessante, por ser o Kaspa!",
+        "Title": "Kasparov choca Karjakin com o Gambito do Rei Bongcloud (date: 22.04.2022)",
+        "URL": "https://www.youtube.com/watch?v=CWY_mfPSL_s"
+      }
+    ]
+  }
+]
