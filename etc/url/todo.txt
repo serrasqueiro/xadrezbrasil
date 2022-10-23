@@ -1,0 +1,1 @@
+python $HOME/git_repos/tiny-snippets/snippets/portadosfundos/porta_dos_fundos.py --limit 3 --out-name partidas_boas.json partidas_boas.txt
