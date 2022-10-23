@@ -9,3 +9,6 @@
 
 ## Within playlists// ...Em playlists
 1. [video](https://www.youtube.com/watch?v=dW6guRRRYU0&list=PLQ8hE68msE1eEMmA5BD7d5X8BToAuFRTF&index=3) - 3: Mikhail Tal mostra no tabuleiro que 2 + 2 = 5
+
+## Others// outras
+1. [(video)](https://www.youtube.com/watch?v=_XygM5eDPf4) Tal vs Tigran (1976)
