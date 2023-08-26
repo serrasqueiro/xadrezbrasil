@@ -14,6 +14,8 @@
 1. [here](https://lichess.org/MRGshGCg/white#49) hclm vs Juan - Mate fácil
    + ![game, playing white](https://lichess1.org/game/export/gif/MRGshGCg.gif)
 1. [here](https://lichess.org/PBCuVOAP/black#38) Ydrap vs hclm - uma boa vitória!
+1. [here](https://lichess.org/tvq1Jn66/white#37) hclm vs _TerzoTempo_ - Mais um sacrificio de torre!
+   + original game url [here](https://lichess.org/tvq1Jn66)
 
 ## All my games - lichess
 1. https://lichess.org/@/hclm/all
