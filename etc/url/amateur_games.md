@@ -16,6 +16,7 @@
 1. [here](https://lichess.org/PBCuVOAP/black#38) Ydrap vs hclm - uma boa vitória!
 1. [here](https://lichess.org/tvq1Jn66/white#37) hclm vs _TerzoTempo_ - Mais um sacrificio de torre!
    + original game url [here](https://lichess.org/tvq1Jn66)
+1. [here](https://lichess.org/Q0JGftpx/black) _somebody_ vs hclm - Rei branco exposto demasiado!?
 
 ## All my games - lichess
 1. https://lichess.org/@/hclm/all
