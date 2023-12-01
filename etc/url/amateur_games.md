@@ -17,6 +17,7 @@
 1. [here](https://lichess.org/tvq1Jn66/white#37) hclm vs _TerzoTempo_ - Mais um sacrificio de torre!
    + original game url [here](https://lichess.org/tvq1Jn66)
 1. [here](https://lichess.org/Q0JGftpx/black) _somebody_ vs hclm - Rei branco exposto demasiado!?
+1. [here](https://lichess.org/w4TSuqk3#white) hclm vs _somebody_ - Jogo rapido, como castigar uma entrada de pretas com a Dama
 
 ## All my games - lichess
 1. https://lichess.org/@/hclm/all
